@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Voice Thread",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-9d2ab51e-5ytq.vercel.app",
+    "imageUrl": "https://e83535c3-6f5e-4bf5-8109-de8b9d2ab51e.vercel.app/image.png",
+    "splashImageUrl": "https://e83535c3-6f5e-4bf5-8109-de8b9d2ab51e.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-9d2ab51e-5ytq.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "Voice Thread is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://e83535c3-6f5e-4bf5-8109-de8b9d2ab51e.vercel.app/screenshot1.png",
+      "https://e83535c3-6f5e-4bf5-8109-de8b9d2ab51e.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://e83535c3-6f5e-4bf5-8109-de8b9d2ab51e.vercel.app/hero.png",
+    "tagline": "Voice Thread",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "Voice Thread",
+    "ogDescription": "Voice Thread is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://e83535c3-6f5e-4bf5-8109-de8b9d2ab51e.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+Voice%20Thread+at+https%3A%2F%2Fe83535c3-6f5e-4bf5-8109-de8b9d2ab51e.vercel.app"
+  }
+}
